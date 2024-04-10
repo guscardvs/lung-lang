@@ -1,0 +1,22 @@
+const main = fn() {
+    print("Hello, World!");
+    var x: int;
+    var a = b + c;
+    var d = b >= c;
+    var e = a and b or c;
+    var f = a != b;
+    const g = fn(a, b) {};
+    const h = struct {};
+    // comment
+    /*
+        multiline comment * 2
+    */
+    if (a == b) {
+
+    } else if (){
+
+    } else {
+        
+    };
+    return a, b, c, d, e, f;
+};
